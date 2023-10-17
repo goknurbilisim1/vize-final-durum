@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\vize-final-durum\vize-final-durum\bin\Debug\vize-final-durum.exe.config
+C:\Users\User\source\repos\vize-final-durum\vize-final-durum\bin\Debug\vize-final-durum.exe
+C:\Users\User\source\repos\vize-final-durum\vize-final-durum\bin\Debug\vize-final-durum.pdb
+C:\Users\User\source\repos\vize-final-durum\vize-final-durum\obj\Debug\vize-final-durum.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\vize-final-durum\vize-final-durum\obj\Debug\vize-final-durum.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\vize-final-durum\vize-final-durum\obj\Debug\vize_final_durum.Form1.resources
+C:\Users\User\source\repos\vize-final-durum\vize-final-durum\obj\Debug\vize_final_durum.Properties.Resources.resources
+C:\Users\User\source\repos\vize-final-durum\vize-final-durum\obj\Debug\vize-final-durum.csproj.GenerateResource.cache
+C:\Users\User\source\repos\vize-final-durum\vize-final-durum\obj\Debug\vize-final-durum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\vize-final-durum\vize-final-durum\obj\Debug\vize-final-durum.exe
+C:\Users\User\source\repos\vize-final-durum\vize-final-durum\obj\Debug\vize-final-durum.pdb
